@@ -1,6 +1,5 @@
 package com.altrkawi.client.controller;
 
-import com.altrkawi.client.entity.PasswordResetToken;
 import com.altrkawi.client.entity.User;
 import com.altrkawi.client.entity.VerificationToken;
 import com.altrkawi.client.event.RegistrationCompleteEvent;
